@@ -70,10 +70,9 @@ silex-core/
 │   │   └── models/          # ML модели
 │   ├── requirements.txt
 │   └── dockerfile
-├── data/                     # Датасеты для обучения
-│   └── blablacar.v3-full-razmetka-v1.yolov8/
-├── docker/                   # Docker конфигурации
-├── notebooks/               # Jupyter ноутбуки
+├── DS/                     # папка с датасетами и Jupyter ноутбуки
+│   ├── .ipynb/             # Jupyter ноутбуки
+│   └── datasets/
 └── docker-compose.yml       # Оркестрация контейнеров
 ```
 
