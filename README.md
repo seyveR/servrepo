@@ -109,10 +109,15 @@ silex-core/
    docker-compose up
    ```
 
-3. **Доступ к приложению:**
+5. **Доступ к приложению:**
    - Frontend: http://localhost:5173
    - Backend API: http://localhost:8000
    - API документация: http://localhost:8000/docs
+  
+6. Также сервис будет доступен в сети до 10.01.2025
+   ```
+   http://89.169.172.227/
+   ```
 
 ### Остановка сервисов
 
