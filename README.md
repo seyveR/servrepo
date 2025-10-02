@@ -88,7 +88,7 @@ silex-core/
 1. **Клонирование репозитория:**
    ```bash
    git clone https://github.com/seyveR/servrepo.git
-   cd silex-core
+   cd servrepo
    ```
 
 2. **Добавьте веса модели:**
